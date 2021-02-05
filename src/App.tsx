@@ -18,6 +18,7 @@ function App() {
         >
           Learn React
         </a>
+        <p>수정했수다</p>
       </header>
     </div>
   );
